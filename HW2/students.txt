@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "name" : "Вася",
+      "books" : [
+        {
+        "title" : "Мертвые души",
+        "pagesAmount" : 125,
+        "publishYear" : 1950
+        },
+        {
+          "title" : "Бедная Лиза",
+          "pagesAmount" : 1275,
+          "publishYear" : 1957
+        },
+        {
+          "title" : "Война и мир",
+          "pagesAmount" : 700,
+          "publishYear" : 1978
+        },
+        {
+          "title" : "Переулок",
+          "pagesAmount" : 339,
+          "publishYear" : 2010
+        },
+        {
+          "title" : "Норвежский лес",
+          "pagesAmount" : 210,
+          "publishYear" : 2017
+        }
+      ]
+    },
+    {
+      "name" : "Петя",
+      "books" : [
+        {
+          "title" : "Пять четвертинок апельсинки",
+          "pagesAmount" : 208,
+          "publishYear" : 2014
+        },
+        {
+          "title" : "Гранатовый браслет",
+          "pagesAmount" : 85,
+          "publishYear" : 1958
+        },
+        {
+          "title" : "Война и мир",
+          "pagesAmount" : 700,
+          "publishYear" : 1978
+        },
+        {
+          "title" : "Горе от ума",
+          "pagesAmount" : 240,
+          "publishYear" : 1986
+        },
+        {
+          "title" : "Гроза",
+          "pagesAmount" : 210,
+          "publishYear" : 1917
+        },
+         {
+           "title" : "Гроза 2",
+           "pagesAmount" : 226,
+           "publishYear" : 2026
+         }
+      ]
+    }
+  ]
+}
