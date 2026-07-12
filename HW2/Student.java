@@ -75,7 +75,7 @@ class StudentReader {
     public static void main(String[] args) {
 
         try {
-            String fileInputStream = Files.readString(Paths.get("C:\\Users\\fursova.v\\OpenideProjects\\untitled\\src\\students.txt"));
+            String fileInputStream = Files.readString(Paths.get("..\\HW2\\students.txt"));
 
             JSONObject json = new JSONObject(fileInputStream);
             JSONArray students = json.getJSONArray("students");
